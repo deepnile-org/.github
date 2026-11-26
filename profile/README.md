@@ -19,7 +19,7 @@ Talk with us: [the community](https://community.deepnile.org) ·
 [Bluesky](https://bsky.app/profile/deepnile.org) ·
 [LinkedIn](https://www.linkedin.com/company/deepnile) ·
 [YouTube](https://www.youtube.com/@deepnile) ·
-[Facebook](https://www.facebook.com/profile.php?id=61596912722679) ·
+[Facebook](https://www.facebook.com/deepnileorg) ·
 [Hugging Face](https://huggingface.co/deepnile)
 
 Published by MT THEMES LTD, England and Wales, company number 17281540.
