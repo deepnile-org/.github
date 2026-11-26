@@ -17,6 +17,7 @@ The code opens with the first release. Until then:
 Talk with us: [the community](https://community.deepnile.org) ·
 [X](https://x.com/deepnile) ·
 [Bluesky](https://bsky.app/profile/deepnile.org) ·
+[Mastodon](https://mastodon.social/@deepnile) ·
 [Telegram](https://t.me/deepnileorg) ·
 [LinkedIn](https://www.linkedin.com/company/deepnile) ·
 [YouTube](https://www.youtube.com/@deepnile) ·
